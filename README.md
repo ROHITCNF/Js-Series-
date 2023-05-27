@@ -4,4 +4,9 @@ I will try to bundle all the core and essential Js concepts into multiple folder
 # Contribution to this repository will be much appreciated.
 
 # For contribution 
-Please Raise your PR against the dev branch then it will be merged into main branch. 
+->Clone this repository in your local 
+-> create your new feature branch 
+-> make changes in your local branch
+-> Raise your PR against the dev branch
+
+ then it will be merged into main branch. 
